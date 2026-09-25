@@ -8,3 +8,4 @@ git add .
 git commit -m "git_commands.txt"                                           
 git commit -m "added new commands"
 this some new changes 
+its me here
