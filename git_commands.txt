@@ -1,0 +1,9 @@
+history                                                                    Get-History                                                                
+(Get-PSReadLineOption).HistorySavePath                                     5 Get-Content (Get-PSReadLineOption).HistorySavePath                         
+git status                                                                 
+history                                                                    
+ls                                                                         
+history                                                                    
+git add .                                                                  
+git commit -m "git_commands.txt"                                           
+git commit -m "added new commands"                     
